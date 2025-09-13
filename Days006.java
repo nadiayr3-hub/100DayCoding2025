@@ -1,10 +1,10 @@
 public class days006
 {
     public static void main(String[] args) {
-         char jenisKelamin = 'P'; 
-        boolean sudahMandi = true;
+        float tinggiBadan = 165.3f;
+        double beratBadan = 53.5; 
 
-        System.out.println("Jenis Kelamin: " + jenisKelamin);
-        System.out.println("sudah mandi: " + sudahMandi);
+        System.out.println("Tinggi Badan Nadia: " + tinggiBadan + " cm");
+        System.out.println("Berat Badan Nadia: " + beratBadan + " kg");
     }
 }
